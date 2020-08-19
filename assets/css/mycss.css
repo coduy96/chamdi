@@ -1,0 +1,11 @@
+#myVideo{
+    width: 100%;
+}
+#videoWrapper{
+    position: relative;
+    z-index: 0;
+    align-self: center;
+    width: 100%;
+    height: 0%;
+    box-sizing: border-box;
+}
